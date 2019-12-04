@@ -1,0 +1,5 @@
+bin
+obj
+!bin/Debug/路径助手.exe
+!bin/Debug/路径助手.exe.config
+.vs
