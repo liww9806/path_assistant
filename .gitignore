@@ -2,4 +2,6 @@ bin
 obj
 !bin/Debug/路径助手.exe
 !bin/Debug/路径助手.exe.config
+bin/Debug/settings.txt
+bin/Debug/path.txt
 .vs

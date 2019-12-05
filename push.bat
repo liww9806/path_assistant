@@ -1,3 +1,3 @@
-git remote push origin master
+git push origin master
 
 pause
